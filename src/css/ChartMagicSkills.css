@@ -1,0 +1,10 @@
+.chart {
+  width: 60%;
+  background-color: rgb(245, 243, 243);
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border-radius: 40px;
+  padding: 20px;
+  padding-top: -10px;
+  
+}

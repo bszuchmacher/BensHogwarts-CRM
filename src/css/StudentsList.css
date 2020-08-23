@@ -1,0 +1,22 @@
+.student-table-row {
+  text-decoration: none;
+}
+
+.student-table-row:hover {
+  -moz-box-shadow: 0 0 20px #ccc;
+  -webkit-box-shadow: 0 0 20px #ccc;
+  box-shadow: 0 0 20px #ccc;
+}
+
+.delete-button {
+  margin: 0;
+}
+
+.box2{
+  background-color: rgb(245, 243, 243);
+  margin-top: 20px;
+  border-radius: 4px;
+  padding: 20px;
+  padding-top: -10px;
+  text-align: center;
+}

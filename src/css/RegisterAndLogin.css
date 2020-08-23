@@ -1,0 +1,31 @@
+.register-container {
+  color: black;
+  background-color: white;
+  border: 2px solid rgb(221, 220, 220) y;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+  padding: 20px;
+  padding-top: 0;
+}
+.register-form {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+.register-form-text-field {
+  margin: 10px 0 10px 0 !important;
+}
+
+.register-button {
+  height: 50px;
+}
+
+.link-to-register-page {
+  text-align: left;
+  font-size: 20px;
+}
+
+.navlink-to-register {
+  margin-left: 5px;
+}

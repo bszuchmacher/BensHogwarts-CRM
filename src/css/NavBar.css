@@ -1,0 +1,33 @@
+.navbar {
+  width: 100%;
+  height: 75px;
+  background-color: rgb(53, 53, 53);
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+  color: whitesmoke;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 4px -2px rgba(255, 255, 255, 0.3);
+}
+.navbar h1 {
+  margin-left: auto;
+  margin-right: 100px;
+  color: whitesmoke;
+  background-color:rgb(53, 53, 53);
+}
+
+.navbar-link {
+  padding: 10px 25px 10px 25px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-link:hover {
+  background-color: limegreen;
+}
+
+.navbar-link-active {
+  font-weight: bold;
+  text-decoration: underline;
+}
